@@ -5,6 +5,6 @@
 [<img src="https://julialang.org/assets/infra/logo.svg" height="50px"/>](https://julialang.org/)
  
  Solved problems:
-  - [Hamming distance between two strings](./Hamming_Distance_Between_Two_Strings.jl)
-  - [Rabbits and recurrence relations](./Rabbits_and_Recurrence_Relations.jl)
-  - [Genome minimizing the skew](./Genome_Minimizing_the_Skew.jl)
+  - [Hamming distance between two strings](./solutions/Hamming_Distance_Between_Two_Strings.jl)
+  - [Rabbits and recurrence relations](./solutions/Rabbits_and_Recurrence_Relations.jl)
+  - [Genome minimizing the skew](./solutions/Genome_Minimizing_the_Skew.jl)
