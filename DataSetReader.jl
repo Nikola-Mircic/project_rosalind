@@ -20,5 +20,5 @@ function ReadDataset(path::String)
 
     dataset = split(file_content, "\n");
 
-    return (dataset[1], dataset[2])
+    return dataset
 end
