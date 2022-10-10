@@ -23,5 +23,6 @@ docs/site/
 # environment.
 Manifest.toml
 
-#The file used for storing a dataset
+#This files are used for storing a dataset and a output for a single problem
 dataset.txt
+output.txt
