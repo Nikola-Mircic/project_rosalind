@@ -9,3 +9,4 @@
   - [Rabbits and recurrence relations](./solutions/Rabbits_and_Recurrence_Relations.jl)
   - [Genome minimizing the skew](./solutions/Genome_Minimizing_the_Skew.jl)
   - [Approximate occurrences](./solutions/Approximate_Occurrences.jl)
+  - [Computing GC content](./solutions/Computing_GC_Content.jl.jl)
